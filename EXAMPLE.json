@@ -53,15 +53,6 @@
           "roles/aiplatform.viewer"
         ]
       }
-    ],
-    "sa_level_self_iam_bindings": [
-      {
-        "role": "roles/iam.serviceAccountUser",
-        "members": [
-          "user:belser@elsersmusings.com",
-          "user:amanda.elser@elsersmusings.com"
-        ]
-      }
     ]
   }
 ]
